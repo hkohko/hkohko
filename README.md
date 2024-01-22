@@ -1,5 +1,7 @@
 ## Hi, I'm Rifdi Andzar Nazhara 👋
 
+> Make tools to make learning other tools easier.
+
 💻 Currently working on:  
 - [space-station-rs](https://github.com/hkohko/space-station-rs) 🚀, a terminal-based game written in Rust to learn and demonstrate its rich type system.
 - Product website (still private) with Flask backend.
