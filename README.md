@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi, I'm Rifdi Andzar Nazhara 👋
 
+💻 Currently working on:  
+- [space-station-rs](https://github.com/hkohko/space-station-rs) 🚀, a terminal-based game to learn and demonstrate Rust's rich type system.
+- Product website (still private) with Flask backend.
+
+Excited to use Python 🐍 or Rust 🦀 wherever he can.
 <!--
 **hkohko/hkohko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
