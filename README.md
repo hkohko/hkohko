@@ -6,6 +6,9 @@
 - [space-station-rs](https://github.com/hkohko/space-station-rs) 🚀, a terminal-based game written in Rust to learn and demonstrate its rich type system.
 - Product website (still private) with Flask backend.
 
+🔍 Currently interested in:
+- [Odin](https://github.com/odin-lang/Odin) 🔱
+
 Excited to use Python 🐍 or Rust 🦀 wherever he can.
 <!--
 **hkohko/hkohko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
