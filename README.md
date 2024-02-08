@@ -3,7 +3,7 @@
 > Make tools to make learning other tools easier.
 
 💻 Currently working on:  
-- [space-station-rs](https://github.com/hkohko/space-station-rs) 🚀, a terminal-based game written in Rust to learn and demonstrate its rich type system.
+- [dget](https://github.com/rfdzan/dget) 🧰, a command-line tool to search for paths in your filesystem. Uses Levenshtein distance for fuzzy matching.
 - Product website (still private) with Flask backend.
 
 🔍 Currently interested in:
