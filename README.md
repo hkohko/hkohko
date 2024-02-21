@@ -7,7 +7,7 @@
 - Product website (still private) with Flask backend.
 
 🔍 Currently interested in:
-- [Odin](https://github.com/odin-lang/Odin) 🔱
+- [🇹🇸](https://github.com/microsoft/TypeScript) #️
 
 Excited to use Python 🐍 or Rust 🦀 wherever he can.
 <!--
