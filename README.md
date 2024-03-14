@@ -3,7 +3,8 @@
 > Make tools to make learning other tools easier.
 
 💻 Currently working on:  
-- [dget](https://github.com/rfdzan/dget) 🧰, a command-line tool to search for paths in your filesystem. Uses Levenshtein distance for fuzzy matching.
+- [dget](https://github.com/rfdzan/dget) 🧰, a command-line tool to search for paths in your filesystem. Uses Levenshtein distance for fuzzy matching
+- [smoljpg](https://github.com/rfdzan/smoljpg) 🖼️, a multi-threaded JPG compression tool powered by [turbojpeg](https://github.com/honzasp/rust-turbojpeg).
 - Product website (still private) with Flask backend.
 
 🔍 Currently interested in:
