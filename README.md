@@ -5,6 +5,7 @@
 💻 Currently working on:  
 - [dget](https://github.com/rfdzan/dget) 🧰, a command-line tool to search for paths in your filesystem. Uses Levenshtein distance for fuzzy matching
 - [jippigy](https://github.com/rfdzan/jippigy) 🖼️, a multi-threaded JPG compression crate powered by [turbojpeg](https://github.com/honzasp/rust-turbojpeg).
+- Indonesian translation for [Keep a Changelog](https://keepachangelog.com/) 📝
 
 🔍 Currently interested in:
 - [Typescript](https://github.com/microsoft/TypeScript)
