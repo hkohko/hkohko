@@ -6,6 +6,7 @@
 - [dget](https://github.com/rfdzan/dget) 🧰, a command-line tool to search for paths in your filesystem. Uses Levenshtein distance for fuzzy matching
 - [jippigy](https://github.com/rfdzan/jippigy) 🖼️, a multi-threaded JPG compression crate powered by [turbojpeg](https://github.com/honzasp/rust-turbojpeg).
 - Indonesian [translation](https://github.com/olivierlacan/keep-a-changelog/pull/609) for [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 📝.
+- [Kanvas](https://github.com/rfdzan/009-Rifdi-Andzar-Nazhara), an illustrator's portfolio website.
 
 🔍 Currently interested in:
 - [Laravel](https://github.com/laravel/laravel) 🎩
