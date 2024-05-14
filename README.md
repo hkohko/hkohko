@@ -8,6 +8,6 @@
 - Indonesian [translation](https://github.com/olivierlacan/keep-a-changelog/pull/609) for [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 📝.
 
 🔍 Currently interested in:
-- [Typescript](https://github.com/microsoft/TypeScript)
+- [Laravel](https://github.com/laravel/laravel) 🎩
 
 Excited to use Python 🐍 or Rust 🦀 wherever he can.
