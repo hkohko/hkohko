@@ -9,5 +9,6 @@
 
 🔍 Currently interested in:
 - [Laravel](https://github.com/laravel/laravel) 🎩
+- [Scala](https://github.com/scala/scala3) 🟥
 
 Excited to use Python 🐍 or Rust 🦀 wherever he can.
